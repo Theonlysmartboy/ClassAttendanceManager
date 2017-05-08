@@ -37,6 +37,23 @@
                 android:background="@color/text_bg"
                 android:id="@+id/greeting"/>
             </android.support.design.widget.TextInputLayout>
+        <Button
+            android:id="@+id/Timetable_btn"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/timetable"
+            android:textStyle="bold"
+            android:onClick=""/>
+        <Button
+            android:id="@+id/prophile_button"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/profile"
+            android:textStyle="bold" />
         </LinearLayout>
         </ScrollView>
         </LinearLayout>

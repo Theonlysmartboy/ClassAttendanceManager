@@ -17,4 +17,6 @@
     <string name="adm_no">Admission Number</string>
     <string name="confirm_pwd">Confirm Password</string>
     <string name="pwd">Password</string>
+    <string name="timetable">View Timetable</string>
+<string name="profile">View My prophile</string>
 </resources>
