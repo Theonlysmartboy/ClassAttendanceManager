@@ -24,7 +24,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".SignUp" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MyProfile" />
+        <activity android:name=".Timetable" />
+        <activity android:name=".Attendance"></activity>
     </application>
 
 </manifest>
