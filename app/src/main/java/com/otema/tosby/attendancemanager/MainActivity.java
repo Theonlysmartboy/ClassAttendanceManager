@@ -1,12 +1,14 @@
 package com.otema.tosby.attendancemanager;
 
+import android.app.Dialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-TextView greet;
+//TextView greet;
     Button Timetable,Profile,Attendance;
     LoginActivity loginActivity;
     @Override
@@ -17,9 +19,13 @@ TextView greet;
         Timetable= (Button)findViewById(R.id.Timetable_btn);
         Profile=(Button)findViewById(R.id.prophile_button);
         Attendance=(Button)findViewById(R.id.attendance_btn);
-        
-          greet = (TextView)findViewById(R.id.greeting);
-        loginActivity = new LoginActivity();
-        //greet.setText(UserName);
+
+
+    }
+    public void ViewTimetable(View V){
+final Dialog Timetabledialog = new Dialog(MainActivity.this);
+        Timetabledialog.setContentView(R.layout.activity_timetable);
+        Timetabledialog.setTitle("Timetable");
+        Timetabledialog.setCancelable(true);
     }
 }
