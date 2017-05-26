@@ -41,7 +41,8 @@
             android:layout_marginTop="16dp"
             android:text="@string/submitAttendance"
             style="?android:textAppearanceSmall"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:onClick="SubmitAttendance"/>
         </LinearLayout>
 
 

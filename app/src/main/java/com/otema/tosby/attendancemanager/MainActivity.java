@@ -27,5 +27,13 @@ final Dialog Timetabledialog = new Dialog(MainActivity.this);
         Timetabledialog.setContentView(R.layout.activity_timetable);
         Timetabledialog.setTitle("Timetable");
         Timetabledialog.setCancelable(true);
+        Timetabledialog.show();
+    }
+    public void SubmitAttendance(View V){
+        final Dialog Attendancedialog = new Dialog(MainActivity.this);
+        Attendancedialog.setContentView(R.layout.activity_attendance);
+        Attendancedialog.setTitle("Submit Attendance");
+        Attendancedialog.setCancelable(true);
+        Attendancedialog.show();
     }
 }
