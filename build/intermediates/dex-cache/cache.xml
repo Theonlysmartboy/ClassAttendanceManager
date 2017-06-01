@@ -2,40 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Maseno\.android\build-cache\808562a06b7e2e801c9c98ccd1dea085e75048a6\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_0240595ae293b53d2341dfe338b8a5a435813c49.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Maseno\.android\build-cache\d900e1e324ff3563776401d37481ae1127c7aa68\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_48f78e18af5d528522e2019d1001ea8e7183faa1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Maseno\.android\build-cache\5ce81ca2c3719426513aaafc7d8ed2ee2109247b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_b0042cfc25a01c0be0f56854e78e1b644e30d4d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Maseno\.android\build-cache\a4ec328c2edcf3cb0583e43763a7d987b03c5824\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_8ded4d3556c1d2f865253fb1f84520f3aa26e073.jar" />
+        sha1="c70cd7914e61b42402c56d6f8083eb22693cdf73">
+        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cdc709e9ee8d2e3f60e0eb0f7ec3026deea03a77\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -63,6 +36,15 @@
         revision="25.0.2"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
         <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_119e754d89098e624a83ce7eb293cf7afe0d36ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maseno\.android\build-cache\808562a06b7e2e801c9c98ccd1dea085e75048a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_0240595ae293b53d2341dfe338b8a5a435813c49.jar" />
     </item>
     <item
         is-multidex="false"
@@ -110,6 +92,24 @@
         <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_303c7c489b3e2e05f6a1b8bc380fccaeeff2bb62.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dfb8275fe94037aab0b0a31a189be15c2a6033c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maseno\.android\build-cache\d900e1e324ff3563776401d37481ae1127c7aa68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_48f78e18af5d528522e2019d1001ea8e7183faa1.jar" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\Maseno\.android\build-cache\791afa9095e68b713df96c8b584fcbd87341b87e\output\jars\classes.jar"
         jumboMode="false"
@@ -117,6 +117,24 @@
         revision="25.0.2"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
         <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_586e63b79a565d7d7a39bc3c01aad2473da43d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maseno\.android\build-cache\5ce81ca2c3719426513aaafc7d8ed2ee2109247b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_b0042cfc25a01c0be0f56854e78e1b644e30d4d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maseno\.android\build-cache\a4ec328c2edcf3cb0583e43763a7d987b03c5824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Maseno\Desktop\AttendanceManager\app\build\intermediates\pre-dexed\debug\classes_8ded4d3556c1d2f865253fb1f84520f3aa26e073.jar" />
     </item>
     <item
         is-multidex="false"

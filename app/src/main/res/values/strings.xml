@@ -20,4 +20,6 @@
     <string name="timetable">View Timetable</string>
     <string name="profile">View My prophile</string>
     <string name="submitAttendance">Submit Attendance</string>
+    <string name="instruction">Plase your registerd fingerprint on the scanner to submit attendance</string>
+    <string name="submit">SUBMIT</string>
 </resources>

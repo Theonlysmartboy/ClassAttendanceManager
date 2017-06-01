@@ -6,4 +6,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="text_bg">#029b3f</color>
     <color name="white">#FFFFFF</color>
+    <color name="drk_button">#ffffff</color>
+    <color name="lgt_button">#fff000</color>
+    <color name="black_alpha">#002</color>
 </resources>
