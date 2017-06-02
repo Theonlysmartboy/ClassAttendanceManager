@@ -1,8 +1,10 @@
 package com.otema.tosby.attendancemanager;
 
+
 import android.hardware.fingerprint.FingerprintManager;
 import android.os.CancellationSignal;
 import android.widget.TextView;
+
 
 public class FingerprintHandler extends FingerprintManager.AuthenticationCallback {
     private TextView tv;

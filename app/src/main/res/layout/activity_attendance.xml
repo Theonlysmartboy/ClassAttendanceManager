@@ -11,10 +11,22 @@
     tools:context="com.otema.tosby.attendancemanager.Attendance"
     android:background="@color/colorPrimaryDark"
     android:orientation="horizontal">
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progspinner"
+        android:entries="@array/programs"
+        android:prompt="@string/course_prompt">
+
+    </Spinner>
    <Spinner
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:id="@+id/unitspinner">
+    android:id="@+id/unitspinner"
+    android:entries="@array/uci"
+    android:prompt="@string/unit_prompt"
+       android:layout_marginTop="16dp"
+       android:layout_below="@+id/progspinner">
 
 </Spinner>
             <TextView

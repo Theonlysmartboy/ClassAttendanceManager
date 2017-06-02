@@ -22,6 +22,7 @@
     <string name="submitAttendance">Submit Attendance</string>
     <string name="instruction">Place your registered fingerprint on the scanner to submit attendance</string>
     <string name="submit">SUBMIT</string>
+    <string name="unit_prompt">Select The unit you are attending</string>
     <string-array name="uci">
         <item>Uci 101</item>
         <item>Uci 102</item>
@@ -39,5 +40,12 @@
         <item>Uci 402</item>
         <item>Uci 403</item>
         <item>Uci 404</item>
+    </string-array>
+    <string name="course_prompt">Select your course</string>
+    <string-array name="programs">
+        <item>IT</item>
+        <item>Computer Science</item>
+        <item>Sociology</item>
+        <item>Business IT</item>
     </string-array>
 </resources>
