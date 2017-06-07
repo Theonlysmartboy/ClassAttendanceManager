@@ -24,7 +24,7 @@
     <string name="submit">SUBMIT</string>
     <string name="unit_prompt">Select The unit you are attending</string>
     <string-array name="uci">
-        <item>Select the code for  Unit that you are attending it's Lesson</item>
+        <item>Select the code for  Unit that you are attending it\'s Lesson</item>
         <item>Uci 101</item>
         <item>Uci 102</item>
         <item>Uci 103</item>
