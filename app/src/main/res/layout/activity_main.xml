@@ -24,8 +24,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/timetable"
-            android:textStyle="bold"
-            android:onClick="ViewTimetable"/>
+            android:textStyle="bold"/>
         <Button
             android:id="@+id/prophile_button"
             style="?android:textAppearanceSmall"
@@ -41,8 +40,7 @@
             android:layout_marginTop="16dp"
             android:text="@string/submitAttendance"
             style="?android:textAppearanceSmall"
-            android:textStyle="bold"
-            android:onClick="SubmitAttendance"/>
+            android:textStyle="bold"/>
         </LinearLayout>
 
 
