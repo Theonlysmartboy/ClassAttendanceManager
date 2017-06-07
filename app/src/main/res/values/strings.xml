@@ -24,6 +24,7 @@
     <string name="submit">SUBMIT</string>
     <string name="unit_prompt">Select The unit you are attending</string>
     <string-array name="uci">
+        <item>Select the code for  Unit that you are attending it's Lesson</item>
         <item>Uci 101</item>
         <item>Uci 102</item>
         <item>Uci 103</item>
@@ -43,6 +44,7 @@
     </string-array>
     <string name="course_prompt">Select your course</string>
     <string-array name="programs">
+        <item>Select the Program that you are taking</item>
         <item>IT</item>
         <item>Computer Science</item>
         <item>Sociology</item>

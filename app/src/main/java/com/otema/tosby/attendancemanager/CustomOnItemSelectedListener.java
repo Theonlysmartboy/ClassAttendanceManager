@@ -13,7 +13,7 @@ class CustomOnItemSelectedListener implements android.widget.AdapterView.OnItemS
 
     @Override
     public void onNothingSelected(AdapterView<?> arg0) {
-        // TODO Auto-generated method stub
+
     }
 
 }
