@@ -43,6 +43,23 @@
         <item>Uci 404</item>
     </string-array>
     <string name="course_prompt">Select your course</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="date_time">DATE/TIME</string>
+    <string name="fri">FRI</string>
+    <string name="mon">MON</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+    <string name="thur">THUR</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
     <string-array name="programs">
         <item>Select the Program that you are taking</item>
         <item>IT</item>
