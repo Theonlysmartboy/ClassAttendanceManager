@@ -60,6 +60,7 @@
     <string name="thur">THUR</string>
     <string name="tue">TUE</string>
     <string name="wed">WED</string>
+    <string name="load">Load</string>
     <string-array name="programs">
         <item>Select the Program that you are taking</item>
         <item>IT</item>
