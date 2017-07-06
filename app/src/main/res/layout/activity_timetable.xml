@@ -196,6 +196,14 @@
                     android:textSize="16sp"
                     android:textStyle="bold"/>
             </RelativeLayout>
+            <HorizontalScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:focusableInTouchMode="true" android:focusable="true">
+                <TableLayout android:id="@+id/table"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:focusableInTouchMode="true"
+                    android:focusable="true"></TableLayout>
+
+            </HorizontalScrollView>
         <TextView
             android:id="@+id/ContentView"
             android:layout_width="match_parent"
